@@ -1,0 +1,11 @@
+* screenwriter.el
+
+A new Emacs package for writing screenplays. Also check out two
+already existing package for the same purpose:
+
+http://www.emacswiki.org/cgi-bin/wiki/ScreenPlay
+
+* Notes to self
+
+Support `forward-page' and `backward-page' by defining correct page
+boundaries.
